@@ -34,6 +34,7 @@
 
 <a-entity position="-0.323 0.761 -5.053" rotation="0 11.115381225537973 0" scale="1 0.523 3.714" geometry="" material="src:https://cdn.glitch.com/279f5eba-bf0d-4775-a0b4-71342b35b993%2Ftexture-en-bois-organique-blanche-fond-en-bois-clair-vieux-bois-lav%C3%A9-94091572.jpg?1523439570252"></a-entity>
 
+
 <a-entity position="-0.579 1.303 -4.904" rotation="0 20.798367963248882 0" scale="1 0.523 3.714" geometry="" material="src:https://cdn.glitch.com/279f5eba-bf0d-4775-a0b4-71342b35b993%2Ftexture-en-bois-organique-blanche-fond-en-bois-clair-vieux-bois-lav%C3%A9-94091572.jpg?1523439570252"></a-entity>
 
 <a-entity position="-0.84 1.842 -4.744" rotation="0 32.94507322002233 0" scale="1 0.523 3.714" geometry="" material="src:https://cdn.glitch.com/279f5eba-bf0d-4775-a0b4-71342b35b993%2Ftexture-en-bois-organique-blanche-fond-en-bois-clair-vieux-bois-lav%C3%A9-94091572.jpg?1523439570252"></a-entity>
